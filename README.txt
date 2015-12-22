@@ -1,3 +1,7 @@
+You must register a new API at the developer console to use this, see https://www.npmjs.com/package/headless-google-auth
+(note: use "http://localhost")
+
+
 todo
 -paging (request only gives 1000 rows)
 -call refresh periodically
